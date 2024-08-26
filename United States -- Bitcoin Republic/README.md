@@ -1,23 +1,22 @@
-# 🏷️ [Insert Name of Your Light Node Here]
+Bitcoin Republic-Los Angeles Circular Economy
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/logo_placeholder.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
 
 ## 📍 Location
-- **Country:** [Insert Country Here]
-- **City:** [Insert City Here]
+- **Country:**United States
+- **City:** Los Angeles
 
 ## 📖 About Us
-[Insert a brief description of your Light Node, its mission, vision, and activities here]
+We are committed to building a circular economy among Salvadoran-origin merchants in Los Angeles, CA Education is the key.
 
 ## 👥 Our Team
-[Insert a short description of your team here. Include a group picture or a picture of a key team member.]
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/team_placeholder.png" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
+Currently a one-person team, but hopefully more Bitcoin enthusiasts will join along the way.<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/team_placeholder.png" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
 - **Dates of Graduations:** [Insert List of Graduation Dates Here]
 - **Number of Students Graduated:** [Insert Total Number of Students Here]
 
 ## 🏆 Recent Achievements
-[Insert details about your recent achievements, awards, recognitions, special events, etc., here]
+We are currently building the Los Angeles community and plan to launch the first 10-week course before the third week of September..
 
 ## 📞 Contact Information
 - **Website:** [Insert Website URL Here]
