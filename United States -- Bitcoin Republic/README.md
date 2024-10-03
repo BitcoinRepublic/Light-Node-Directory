@@ -1,12 +1,12 @@
-# 🏷️ [Insert Name of Your Light Node Here]
+Bitcoin Republic LA Circular Economy
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/logo_placeholder.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
 
 ## 📍 Location
-- **Country:** [Insert Country Here]
-- **City:** [Insert City Here]
+- **Country:** USA
+- **City:** Los Angeles
 
 ## 📖 About Us
-[Insert a brief description of your Light Node, its mission, vision, and activities here]
+Bitcoin Republic is committed to create a Circular Economy in Los Angeles California, specially with the salvadoran diaspora, teaching or educating about bitcoin the merchant community in the so called Salvadoran Corridor.
 
 ## 👥 Our Team
 [Insert a short description of your team here. Include a group picture or a picture of a key team member.]
@@ -17,14 +17,13 @@
 - **Number of Students Graduated:** [Insert Total Number of Students Here]
 
 ## 🏆 Recent Achievements
-[Insert details about your recent achievements, awards, recognitions, special events, etc., here]
-
+Currently preparing the first class planned to statrt in the last week of October 2024.
 ## 📞 Contact Information
 - **Website:** [Insert Website URL Here]
-- **Email:** [Insert Email Address Here]
-- **WhatsApp:** [Insert WhatsApp Number Here]
+- **Email:** fernando.gallegos@hotmail.com
+- **WhatsApp:** 9517331671
 - **Telegram:** [Insert Telegram Contact Here]
-- **Phone:** [Insert Phone Number Here]
+- **Phone:** 951 733 1671
 
 ## 💰 Official Donation Link
-Support our activities by donating through [insert your donation link here].
+Support our activities by donating through fernando_galle@strike.me
